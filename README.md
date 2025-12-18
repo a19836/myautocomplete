@@ -1,7 +1,7 @@
 # My Auto Complete
 
 > Original Repos:   
-> - My Auto Complete: https://github.com/a19836/myautocomplete/   
+> - My Auto Complete: https://github.com/a19836/auto-complete/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
